@@ -1,0 +1,10 @@
+# Build artefacts — added by the platform before pushing.
+.venv/
+venv/
+node_modules/
+__pycache__/
+*.pyc
+dist/
+build/
+.next/
+*.db
